@@ -1,4 +1,4 @@
-baseURL: http://localhost/
+baseURL: https://guilhermedelemos.github.io/poc-hugo/
 languageCode: en-us
 title: My New Hugo Site
 theme: paper
